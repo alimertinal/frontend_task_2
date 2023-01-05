@@ -52,16 +52,11 @@ body {
 .menu-item-1 {
   width: 57px;
   height: 17px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
   padding-left: 40px;
 }
@@ -69,76 +64,52 @@ body {
   padding-left: 40px;
   width: 46px;
   height: 17px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 .menu-item-3 {
   padding-left: 40px;
   width: 57px;
   height: 17px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 .menu-item-4 {
   padding-left: 40px;
   width: 72px;
   height: 17px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 .menu-item-5 {
   padding-left: 40px;
   width: 60px;
   height: 17px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 17px;
-  /* identical to box height */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 
 .button-login {
   align-items: center;
   padding: 0px 38px;
-
   width: 109px;
   height: 48px;
-
-  /* Herox/DarkMode/Blue */
-
   background: #0052ff;
   border-radius: 30px;
 }
@@ -146,31 +117,21 @@ body {
 .button-login span {
   width: 33px;
   height: 15px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   line-height: 15px;
-  /* identical to box height */
-
   align-items: center;
   text-align: center;
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 
 .button-register {
   align-items: center;
   padding: 0px 38px;
-
   width: 126px;
   height: 48px;
-
-  /* Herox/Light Blue */
-
   background: #eef4ff;
   border-radius: 30px;
 }
@@ -178,31 +139,21 @@ body {
 .button-register span {
   width: 50px;
   height: 15px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   line-height: 15px;
-  /* identical to box height */
-
   align-items: center;
   text-align: center;
-
-  /* Herox/Blue */
-
   color: #0052ff;
 }
 
 .main-new {
   padding: 3px 12px;
   gap: 10px;
-
   width: 48px;
   height: 24px;
-
-  /* Herox/DarkMode/Blue */
-
   background: #0052ff;
   border-radius: 20px;
 }
@@ -210,68 +161,43 @@ body {
 .main.new span {
   width: 24px;
   height: 18px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 700;
   font-size: 10px;
   line-height: 18px;
-  /* identical to box height, or 180% */
-
   letter-spacing: 0.002em;
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 
 .heading-paragraph-CTA .heading {
   width: 575px;
   height: 252px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
   font-size: 72px;
   line-height: 116%;
-  /* or 84px */
-
   letter-spacing: -0.01em;
-
-  /* Herox/DarkMode/Ash */
-
   color: #f2f0ff;
 }
 .heading-paragraph-CTA .paragraph {
   width: 575px;
   height: 72px;
-
-  /* Paragraph */
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 180%;
-  /* or 36px */
-
-  /* Herox/DarkMode/White */
-
   color: #ffffff;
 }
 input {
   align-items: center;
   padding: 14px 30px 14px 15px;
   gap: 10px;
-
   width: 396px;
   height: 50px;
-
-  /* Herox/White */
-
   background: #ffffff;
-  /* Grey/3 */
-
   border: 1px solid #efefef;
   border-radius: 8px;
 }
@@ -279,18 +205,12 @@ input {
 ::placeholder {
   width: 170px;
   height: 22px;
-
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
   line-height: 22px;
-  /* identical to box height, or 183% */
-
   text-align: center;
-
-  /* Grey/1 */
-
   color: #475467;
 }
 
@@ -311,22 +231,21 @@ input {
 
 .logos {
   padding-top: 20.1px;
-
 }
 
 .logo1{
-    width: 150.62px;
+width: 150.62px;
 height: 31.97px;
 
 }
 .logo2 {
-  padding-left: 27px;
-  width: 111.91px;
+padding-left: 27px;
+width: 111.91px;
 height: 37.87px;
 }
 .logo3 {
-  padding-left: 27px;
-  width: 90.88px;
+padding-left: 27px;
+width: 90.88px;
 height: 37.87px;
 }
 .logo4 {
@@ -336,8 +255,8 @@ height: 52.17px;
 }
 
 .right-img{
-    width: 475px;
-height: 617.12px;
+  width: 475px;
+  height: 617.12px;
 
 
 background: linear-gradient(180deg, rgba(0, 0, 0, 0) 23.09%, rgba(0, 0, 0, 0.5) 65.8%);
